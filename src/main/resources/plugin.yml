@@ -1,0 +1,16 @@
+name: Test
+version: 1.0
+main: it.mineblock.test.Main
+depend: [MBCore]
+authors: [DannyRed99]
+description: Test plugin
+website: www.mineblock.it
+
+commands:
+  comando1:
+    usage: /<command>
+    description: Descrizione
+
+  comando2:
+    usage: /<command>
+    description: Descrizione
